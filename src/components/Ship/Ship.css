@@ -1,0 +1,10 @@
+.ship {
+    position: absolute;
+
+    background-color: deepskyblue;
+    heigth: 5rem;
+}
+
+.killed {
+    background-color: darkred;
+}
