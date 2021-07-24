@@ -1,0 +1,23 @@
+.row {
+    height: 6rem;
+    width: 60rem;
+    display: flex;
+}
+
+.battlefield-title-row {
+    color: white;
+    font-weight: 500;
+    display: inline-block;
+    font-size: 5rem;
+    width: 5rem;
+}
+
+.battlefield-title {
+    color: white;
+    font-weight: 500;
+    display: block;
+    font-size: 5rem;
+    width: 6rem;
+    height: 5rem;
+    text-align: center;
+}

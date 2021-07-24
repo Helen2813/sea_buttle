@@ -1,0 +1,8 @@
+.cell {
+    width: 7rem;
+    height: 6rem;
+    border: 1px solid white;
+    background-color: white;
+    opacity: 0.5;
+    margin: -.1rem;
+}

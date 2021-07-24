@@ -1,6 +1,6 @@
-import { Battlefield } from './Battlefield';
-import { BattlefieldTable } from './BattlefieldTable';
+import { Battlefield } from './Battlefield/Battlefield';
+import { BattlefieldTable } from './BattlefieldTable/BattlefieldTable';
 import { Shot } from './Shot';
-// import { Ship } from './Ship';
+import { Ship } from './Shipp';
 
-export { Battlefield, BattlefieldTable, Shot };
+export { Battlefield, BattlefieldTable, Shot, Ship };

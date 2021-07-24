@@ -1,0 +1,17 @@
+:root {
+    font-size: 0.73vw;
+}
+
+.body {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.app {
+    background-image: url('./assets/bg.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    padding: 6rem;
+    box-sizing: border-box;
+}
